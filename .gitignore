@@ -1,0 +1,13 @@
+*.pyc
+*.html
+*.js
+*.rst
+*.log
+*.exe
+*.bat
+*.txt
+*.cfg
+*.doctree
+.venv/
+.docs/
+.__pycache__/
